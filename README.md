@@ -9,8 +9,9 @@ Requires a BPQ export and the reqmulti.sh scraper, which launches the multi.c on
  Install in a directory off the BASE_DIR (e.g. /home/pi/linbpq/scripts/)
 
 Change:
-        variables in reqmulti.sh to match your system
-        multi_bpq.cfg settings
+ variables in reqmulti.sh to match your system
+       
+ multi_bpq.cfg settings
         
  You need an export FWD in BPQMail to export P-type msgs to the below directory
 
