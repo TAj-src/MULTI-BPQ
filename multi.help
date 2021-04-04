@@ -1,0 +1,26 @@
+#
+# Help file for xBPQ MULTI
+#
+G7TAJ's version for xBPQ of G0LGS's MULTI Help:
+
+Subject line commands:
+
+/LIST   Retrieves a list of members on a particular mailing list.
+        (For 'Closed' lists only lists members can do this).
+
+/ADD    Adds your Callsign to the Mailing List. (for 'Open' Lists).
+
+        From V0.41 the List owner can ADD users to a list. 
+	use /ADD <Callsign> [@ BBS_Hroute].
+
+        BBS_Hroute is optional, FBB should use WP if not specified.
+
+/REMOVE Removes your Callsign to the Mailing List.
+
+	From 0.42 the list owner can remove users from a list.
+	use /REMOVE [Callsign].
+
+/HELP   Sends this HELP file.
+
+Note:   All reqests should be addressed to the list (ie: sp club).
+
