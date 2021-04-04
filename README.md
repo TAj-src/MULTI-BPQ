@@ -1,6 +1,6 @@
-# AUTO7P-BPQ
+# MUTLI-BPQ
 
-Auto7P server for LinBPQ 
+MULTI message server for LinBPQ 
 
 Requires a BPQ export and the reqmulti.sh scraper, which launches the multi.c once compiled.
 
