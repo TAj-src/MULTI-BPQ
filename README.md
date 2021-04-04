@@ -2,6 +2,8 @@
 
 Auto7P server for LinBPQ 
 
+Requires a BPQ export and the reqmulti.sh scraper, which launches the multi.c once compiled.
+
  Author       : G7TAJ@GB7BEX.#38.GBR.EU (Steve)
 
  Install in a directory off the BASE_DIR (e.g. /home/pi/linbpq/scripts/)
